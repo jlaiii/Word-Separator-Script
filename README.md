@@ -12,4 +12,4 @@ The script will check if the file exists at the specified path. If the file exis
 
 ``` ./word-separator.ps1
 Enter the path to the text file you want to process: C:\example\text.txt
-Each word has been moved to a new line in the file successfully!```
+Each word has been moved to a new line in the file successfully!
